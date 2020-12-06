@@ -1,0 +1,14 @@
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.frm_chinh.resources
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.frm_dangnhap.resources
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.frm_khachdatban.resources
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.frm_nhanvien.resources
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.frm_quanlysanpham.resources
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.exe
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.pdb
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Tran Phu\Desktop\cnpm\quan trọng\QuanCaPhe\obj\x86\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
